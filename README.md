@@ -4,8 +4,8 @@
 <p style="line-height: 50%;">I am from Atlanta Area - but can work anywhere in US - prefer tech hubs</p>
 
 - Education :
--   ** BACHELOR OF ENGINEERING **, COMPUTER SCIENCE, May 2026
--   Virginia Polytechnic Institute and State University (**  Virginia Tech ** ), Blacksburg, VA
+-   <p style="line-height: 50%;">**BACHELOR OF ENGINEERING**, COMPUTER SCIENCE, May 2026
+-   Virginia Polytechnic Institute and State University (**Virginia Tec** ), Blacksburg, VA </p>
 
 - Coursework : ?
 - Certification : ??
