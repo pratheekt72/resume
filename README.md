@@ -1,5 +1,5 @@
 # Pratheek Thummalapalli 
-#### [Find Me on Linked In](https://www.linkedin.com/in/pratheekthummalapalli/) | Email me [here](mailto:pratheet@vt.edu) | Seeking Summer Internship Opportunities (Software Engineering)
+#### [Find Me on Linked In](https://www.linkedin.com/in/pratheekthummalapalli/) | Email me [here](mailto:pratheet@vt.edu) | Seeking Summer Internship Opportunities (Software Engineering) [here](https://apps.nationalmap.gov/viewer/)
 ######  <p style="line-height: 50%;">I am from Atlanta Area - but can work anywhere in US - prefer tech hubs</p>
 
 - **Education**:  BACHELOR OF ENGINEERING, COMPUTER SCIENCE, May 2026, Virginia Polytechnic Institute and State University (Virginia Tech ), Blacksburg, VA
